@@ -2,6 +2,7 @@
 
 Welcome to the **AI-Powered Quiz Game**!  
 This is a fun console-based C program that quizzes you on any topic by using AI-generated questions via OpenRouter + GPT.
+you can change the prompt inside the python file to suit your choice of quiz
 
 ---
 
