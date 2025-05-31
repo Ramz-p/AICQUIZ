@@ -1,7 +1,7 @@
-# 🎬 AI Movie Quiz Game (C + GPT via OpenRouter)
+# 🎬 AI Quiz Game (C + GPT via OpenRouter)
 
-Welcome to the **AI-Powered Movie Quiz Game**!  
-This is a fun console-based C program that quizzes you on movie trivia by using AI-generated questions via OpenRouter + GPT.
+Welcome to the **AI-Powered Quiz Game**!  
+This is a fun console-based C program that quizzes you on any topic by using AI-generated questions via OpenRouter + GPT.
 
 ---
 
